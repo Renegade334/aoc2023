@@ -1,0 +1,11 @@
+{
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [],
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true
+  }
+}
